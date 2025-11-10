@@ -1,6 +1,6 @@
 # Purpose
 
-Testing Ontology-template.
+Testing Ontology-template. OntoQA must be public.
 
 # Ontology-template
 
