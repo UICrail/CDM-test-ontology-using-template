@@ -1,3 +1,7 @@
+# Purpose
+
+Testing Ontology-template.
+
 # Ontology-template
 
 Template for ontologies. Structured in view of using shared **continuous integration** and **documentation** workflows.
