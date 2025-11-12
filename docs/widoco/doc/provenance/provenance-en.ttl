@@ -1,0 +1,27 @@
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix : <> .
+<http://data.europa.eu/949/Telematics/6.0> a prov:Entity;
+	 dc:title "Telematics ontology for railways";
+	 prov:wasAttributedTo <_:genid2147483649>;
+	 dc:creator <_:genid2147483649>;
+	 prov:wasAttributedTo <_:genid2147483650>;
+	 dc:creator <_:genid2147483650>;
+	 prov:wasAttributedTo <_:genid2147483651>;
+	 dc:creator <_:genid2147483651>;
+	 prov:wasAttributedTo <_:genid2147483652>;
+	 dc:creator <_:genid2147483652>;
+	 prov:wasAttributedTo :agent0;
+	 prov:wasAttributedTo :agent1;
+	 prov:wasAttributedTo :agent2;
+	 prov:wasAttributedTo :agent3;
+	 prov:wasAttributedTo :agent4;
+	 prov:wasAttributedTo <https://github.com/dgarijo/Widoco/>,<http://www.essepuntato.it/lode/>;
+	 prov:wasGeneratedAt "2024-10-06";
+.
+:agent0 a prov:Agent; foaf:name "null".
+:agent1 a prov:Agent; foaf:name "null".
+:agent2 a prov:Agent; foaf:name "Ghislain Atemezing".
+:agent3 a prov:Agent; foaf:name "Gabriel Bituna".
+:agent4 a prov:Agent; foaf:name "null".
