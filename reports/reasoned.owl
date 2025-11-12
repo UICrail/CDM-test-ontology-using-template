@@ -28,12 +28,12 @@
             <rdf:Description/>
         </terms:creator>
         <terms:creator>
+            <rdf:Description/>
+        </terms:creator>
+        <terms:creator>
             <rdf:Description>
                 <foaf:name>Gabriel Bituna</foaf:name>
             </rdf:Description>
-        </terms:creator>
-        <terms:creator>
-            <rdf:Description/>
         </terms:creator>
         <terms:creator>
             <rdf:Description/>
